@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @GautJ
-- 👀 I’m interested in the application of computer science to finance and data science
-- 🌱 I’m currently learning the basis of Python
-- 📫 How to reach me: gauthier.jeannin@edu.escp.eu
